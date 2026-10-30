@@ -1,0 +1,8 @@
+{
+  "edition": "tech",
+  "version": "2.2.0",
+  "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/v2.2.0/NexusTecnicos-Setup-2.2.0.exe",
+  "notes": "Novedades 2.2.0: actualizaciones automáticas, backup previo y restauración desde Backups.",
+  "mandatory": false,
+  "publishedAt": "2026-10-30"
+}
