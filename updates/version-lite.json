@@ -1,8 +1,8 @@
 {
   "edition": "lite",
-  "version": "2.2.0",
-  "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/v2.2.0/NexusLite-Setup-2.2.0.exe",
-  "notes": "Novedades 2.2.0: actualizaciones automáticas, backup previo y restauración desde Backups.",
+  "version": "2.2.2",
+  "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/v2.2.2/NexusLite-Setup-2.2.2.exe",
+  "notes": "Novedades 2.2.2: actualizaciones automáticas, backup previo y restauración desde Backups.",
   "mandatory": false,
-  "publishedAt": "2026-10-30"
+  "publishedAt": "2026-11-04"
 }
