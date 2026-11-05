@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-11-05",
+  "version": "2.2.4",
+  "release": "demos",
+  "demos": [
+    {
+      "id": "full",
+      "name": "Nexus Demo Full",
+      "version": "2.2.4",
+      "file": "NexusDemoFull-Setup.exe",
+      "size": 137955430,
+      "sha256": "98d5b4d62c894293a6a93746d4ee0615ff71cf1091c5d9fba8681c9caddac073",
+      "trialDays": 15,
+      "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/demos/NexusDemoFull-Setup.exe"
+    },
+    {
+      "id": "lite",
+      "name": "Nexus Demo Lite",
+      "version": "2.2.4",
+      "file": "NexusDemoLite-Setup.exe",
+      "size": 137955334,
+      "sha256": "f5080669ce6a792c0106a52965275dcf2c631f571cb435129101c7f1e424beb6",
+      "trialDays": 15,
+      "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/demos/NexusDemoLite-Setup.exe"
+    },
+    {
+      "id": "tech",
+      "name": "Nexus Demo Técnicos",
+      "version": "2.2.4",
+      "file": "NexusDemoTecnicos-Setup.exe",
+      "size": 137955528,
+      "sha256": "58323c2a146d04c65f25462977432042f008fa774c7aac8655e02d15938428f0",
+      "trialDays": 15,
+      "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/demos/NexusDemoTecnicos-Setup.exe"
+    }
+  ]
+}
