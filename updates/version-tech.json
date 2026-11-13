@@ -1,8 +1,8 @@
 {
   "edition": "tech",
-  "version": "2.2.7",
-  "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/v2.2.7/NexusTecnicos-Setup-2.2.7.exe",
-  "notes": "Novedades 2.2.7: actualizaciones automáticas, backup previo y restauración desde Backups.",
+  "version": "2.2.8",
+  "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/v2.2.8/NexusTecnicos-Setup-2.2.8.exe",
+  "notes": "Novedades 2.2.8: actualizaciones automáticas, backup previo y restauración desde Backups.",
   "mandatory": false,
-  "publishedAt": "2026-11-12"
+  "publishedAt": "2026-11-13"
 }
