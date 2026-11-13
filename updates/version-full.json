@@ -1,8 +1,8 @@
 {
   "edition": "full",
-  "version": "2.2.7",
-  "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/v2.2.7/NexusFull-Setup-2.2.7.exe",
-  "notes": "Novedades 2.2.7: presupuestos (la terminal queda lista para el siguiente y se pueden convertir en venta), mejoras de estabilidad y actualizaciones automáticas.",
+  "version": "2.2.8",
+  "url": "https://github.com/lucianodzienciol-hue/Nexus3.0-Releases/releases/download/v2.2.8/NexusFull-Setup-2.2.8.exe",
+  "notes": "Novedades 2.2.8: presupuestos (la terminal queda lista para el siguiente y se pueden convertir en venta), mejoras de estabilidad y actualizaciones automáticas.",
   "mandatory": false,
-  "publishedAt": "2026-11-12"
+  "publishedAt": "2026-11-13"
 }
